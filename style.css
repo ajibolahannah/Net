@@ -1,0 +1,171 @@
+body{
+    scroll-behavior: smooth;
+    background-color:black;
+}
+.g{
+    height: 80vh;
+    width: 100%;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)), url(assets/back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+}
+.v{
+    background-color: red;
+}
+.is{
+    /* background-color: solid; */
+    background: none;
+    transition: 1s;
+    
+}
+.is:hover{
+    background-color: white;
+    
+}
+
+.dd{
+    overflow-x: hidden;
+    overflow-x: scroll;
+    height: 330px;
+}
+.ds{
+    position: relative;
+    bottom: 90px;
+    right: 50px;
+}
+
+
+.ac{
+   height: 60vh;
+   object-fit: contain;
+   width: 700px;
+     background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)),url(assets/tokilla2.png);
+        
+}
+.pc{
+    height: 60vh;
+    
+    width: 740px;
+    object-fit: contain;
+   
+     background-image:linear-gradient(to left, rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)),url(assets/wednesday2.png);
+
+    background-repeat: no-repeat;
+}
+.rc{
+    background-image:linear-gradient(to left, rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)),url(assets/devil2.png);
+ 
+  
+    height: 60vh;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    width: 700px;
+}
+.fc{
+    background-color: black;
+    height: 60vh;
+       width: 700px;
+}
+.oc{
+    background-color: black;
+ height: 60vh;
+    
+    width: 700px;
+}
+.en{
+    background:linear-gradient( rgb(28,25,51),rgb(30,19,36));
+    height: 250px;
+    width: 300px;
+    color: black;
+    border-radius: 15px;
+}
+.icofont-imac{
+    font-size: 40px;
+   
+    color: rgb(121,42,149);
+}
+.it{
+    background-color: rgb(45,45,45);
+    height: 75px;
+    font-size: 25px;
+   
+    
+}
+.pl{
+    background-color: rgb(45,45,45);
+}
+.vc{
+    align-items: center;
+    justify-content: center;
+}
+.lt{
+    color: white;
+}
+.ki{
+    background: none;
+    color: white;
+  
+}
+.sd{
+    color: blue;
+    text-decoration: underline;
+    border: none;
+    background: none;
+}
+
+.background{
+    position: relative;
+    height: 80vh;
+    width: 100%;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)), url(assets/back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity: 100%; */
+
+}
+ .background::before{
+  position: absolute;
+  background-color: black;
+  opacity: 0.6;
+  z-index: 0;
+
+ }
+.signbody{
+    
+    scroll-behavior: smooth;
+    background-color:black;
+    
+}
+
+.inh{
+/* background-color: black ;
+opacity: 0.6;
+height: 60vh; */
+}
+
+
+
+.email{
+background: none;
+width: 30%;
+height: 7vh;
+margin: 15px;
+padding: 10px;
+}
+.hfb{
+   background-color: red;
+  
+    width: 30%;
+
+}
+.pass{
+    font-size: 17px;
+    font-weight: 400;
+    margin: 10px; 
+   
+}
+.tet{
+    align-items: start;
+   
+}
