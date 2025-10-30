@@ -5,7 +5,7 @@ body{
 .g{
     height: 80vh;
     width: 100%;
-    background-image:linear-gradient( rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)), url(assets/back.png);
+    background-image:linear-gradient( rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)), url(back.png);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 100%;
@@ -40,7 +40,7 @@ body{
    height: 60vh;
    object-fit: contain;
    width: 700px;
-     background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)),url(assets/tokilla2.png);
+     background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)),url(tokilla2.png);
         
 }
 .pc{
@@ -49,12 +49,12 @@ body{
     width: 740px;
     object-fit: contain;
    
-     background-image:linear-gradient(to left, rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)),url(assets/wednesday2.png);
+     background-image:linear-gradient(to left, rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)),url(wednesday2.png);
 
     background-repeat: no-repeat;
 }
 .rc{
-    background-image:linear-gradient(to left, rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)),url(assets/devil2.png);
+    background-image:linear-gradient(to left, rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)),url(devil2.png);
  
   
     height: 60vh;
@@ -118,7 +118,7 @@ body{
     position: relative;
     height: 80vh;
     width: 100%;
-    background-image:linear-gradient( rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)), url(assets/back.png);
+    background-image:linear-gradient( rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)), url(back.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* opacity: 100%; */
@@ -168,4 +168,5 @@ padding: 10px;
 .tet{
     align-items: start;
    
+
 }
